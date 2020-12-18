@@ -1,4 +1,4 @@
-# machine_learning
+# my_Coursera_Machine_Learning
 Small projects from Cousera Machine Learning course by Stanford University - Andrew Ng
 
 https://www.coursera.org/learn/machine-learning
